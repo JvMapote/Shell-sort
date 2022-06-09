@@ -1,5 +1,4 @@
 # Shell sort
-
 def shellSort(array, n):
     interval = n // 2
     while interval > 0:
